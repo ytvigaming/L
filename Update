@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "New Update Found",
+  "Description": "click to update for updates to new version",
   "MainTextButton": "Update",
-  "Cancelable": "true",
+  "Cancelable": "false",
   "CancelButtonText": "Cancel",
   "DownloadLink": "www.example.com",
-  "Version": "1.1"
+  "Version": "1.0"
 }
