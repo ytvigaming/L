@@ -1,0 +1,39 @@
+{
+  "libraries": [
+    {
+      "libraryName": "SupportActivity RecyclerView",
+      "version": "1.3.0",
+      "author": "The Android Open Source Project",
+      "licenseName": "Apache License 2.0",
+      "licenseDetails": "Full text or summary of the Apache License 2.0"
+    },
+    {
+      "libraryName": "SupportActivity VectorDrawable",
+      "version": "1.1.0",
+      "author": "The Android Open Source Project",
+      "licenseName": "Apache License 2.0",
+      "licenseDetails": "Full text or summary of the Apache License 2.0"
+    },
+    {
+      "libraryName": "SupportActivity View Pager",
+      "version": "1.0.0",
+      "author": "The Android Open Source Project",
+      "licenseName": "Apache License 2.0",
+      "licenseDetails": "Full text or summary of the Apache License 2.0"
+    },
+    {
+      "libraryName": "Timber",
+      "version": "5.0.1",
+      "author": "Jake Wharton",
+      "licenseName": "Apache License 2.0",
+      "licenseDetails": "Full text or summary of the Apache License 2.0"
+    },
+    {
+      "libraryName": "Transition",
+      "version": "1.5.0",
+      "author": "The Android Open Source Project",
+      "licenseName": "Apache License 2.0",
+      "licenseDetails": "Full text or summary of the Apache License 2.0"
+    }
+  ]
+}
