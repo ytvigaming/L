@@ -44,21 +44,21 @@
     },
     {
       "libraryName": "LinearLayout",
-      "version": "Android SDK",
+      "version": "1.0",
       "author": "The Android Open Source Project",
       "licenseName": "Apache License 2.0",
       "licenseDetails": "https://developer.android.com/reference/android/widget/LinearLayout"
     },
     {
       "libraryName": "RelativeLayout",
-      "version": "Android SDK",
+      "version": "1.0",
       "author": "The Android Open Source Project",
       "licenseName": "Apache License 2.0",
       "licenseDetails": "https://developer.android.com/reference/android/widget/RelativeLayout"
     },
     {
       "libraryName": "FrameLayout",
-      "version": "Android SDK",
+      "version": "1.0",
       "author": "The Android Open Source Project",
       "licenseName": "Apache License 2.0",
       "licenseDetails": "https://developer.android.com/reference/android/widget/FrameLayout"
@@ -72,28 +72,28 @@
     },
     {
       "libraryName": "TextView",
-      "version": "Android SDK",
+      "version": "1.0",
       "author": "The Android Open Source Project",
       "licenseName": "Apache License 2.0",
       "licenseDetails": "https://developer.android.com/reference/android/widget/TextView"
     },
     {
       "libraryName": "Button",
-      "version": "Android SDK",
+      "version": "1.0",
       "author": "The Android Open Source Project",
       "licenseName": "Apache License 2.0",
       "licenseDetails": "https://developer.android.com/reference/android/widget/Button"
     },
     {
       "libraryName": "EditText",
-      "version": "Android SDK",
+      "version": "1.0",
       "author": "The Android Open Source Project",
       "licenseName": "Apache License 2.0",
       "licenseDetails": "https://developer.android.com/reference/android/widget/EditText"
     },
     {
       "libraryName": "ImageView",
-      "version": "Android SDK",
+      "version": "1.0",
       "author": "The Android Open Source Project",
       "licenseName": "Apache License 2.0",
       "licenseDetails": "https://developer.android.com/reference/android/widget/ImageView"
